@@ -25,4 +25,4 @@ A desktop application to track daily expenses, built using **Python**, **Tkinter
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Personal-Expense-Tracker.git
+   git clone https://github.com/supreethii30/Personal-Expense-Tracker.git
